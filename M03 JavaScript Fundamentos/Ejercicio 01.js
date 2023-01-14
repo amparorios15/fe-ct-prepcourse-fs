@@ -2,7 +2,7 @@
 /*1️⃣ EJERCICIO 01 1️⃣*/
 
 // Crea una variable de tipo string.
-const nuevoString = "amparo"
+const nuevoString = "amparo";
  
 // Crea una variable de tipo number.
 const nuevoNumero = 15;
